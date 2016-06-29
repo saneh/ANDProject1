@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FLGFashion</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">An ode to beauty, style and inner desires. Give your wardrobe a sexier, saucier makeover. Inspired by love, beauty and sex. Have fun!</string>
+    <string name="businessName">FLG Fashion</string>
+    <string name="url">www.flgfashion.com</string>
+    <string name="phone">011-21345044</string>
+    <string name="email">connect@flgfashion.com</string>
+    <string name="address">SCO:44 \nInner Ring \nCannaught Place \nDelhi, India</string>
+    <string name="checkout">Checkout : </string>
+</resources>
